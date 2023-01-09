@@ -36,7 +36,7 @@ Note, the CI/CD part of the below solution was originally built on GitLab CI/CD.
 ## Deliverables Summary
 * Infrastructure repo: Repo is ["1.infra-terraform" repo](https://github.com/chrisbuckleycode/eks-infra/blob/main/1.infra-terraform/)
 * Infrastructure pipeline dashboard: [NOT AVAILABLE]()
-* Application repo: ["kubernetes-application" repo](https://github.com/chrisbuckleycode/eks-infra/blob/main/2.app-helm/)
+* Application repo: ["2.app-helm" repo](https://github.com/chrisbuckleycode/eks-infra/blob/main/2.app-helm/)
 * Application pipeline dashboard: [NOT AVAILABLE]()
 * Live site: [NOT AVAILABLE]()
 
@@ -146,7 +146,7 @@ Yaml file created for Terraform pipeline but using S3 as remote backend. General
 
 ## Setup Instructions/Log - Application Pipeline
 
-* Repo is ["kubernetes-application"](https://github.com/chrisbuckleycode/eks-infra/blob/main/1.infra-terraform/2.app-helm).
+* Repo is ["2.app-helm"](https://github.com/chrisbuckleycode/eks-infra/blob/main/2.app-helm).
 * Pipeline can be seen here: [NOT AVAILABLE]().
 
 ### Install GitLab Agent
